@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "title": "Cameo necklace, CLOSET",
+    "price": "KRW 70,000"
+  },
+  {
+    "id": 1,
+    "title": "Teardrop necklace, AMBER",
+    "price": "KRW 65,000"
+  },
+  {
+    "id": 2,
+    "title": "Anniversary initial strap necklace, BLACK",
+    "price": "KRW 80,000"
+  },
+  {
+    "id": 3,
+    "title": "Teardrop necklace, WOOL",
+    "price": "KRW 72,000"
+  },
+  {
+    "id": 4,
+    "title": "Cameo necklace, FRESHWATER",
+    "price": "KRW 75,000"
+  }
+]
